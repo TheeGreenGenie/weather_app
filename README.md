@@ -79,7 +79,6 @@ This application uses the OpenWeatherMap API to fetch weather data. The free tie
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API
 - [Flask](https://flask.palletsprojects.com/) for the web framework
-- [Font Awesome](https://fontawesome.com/) for the icons
 
 ---
 
