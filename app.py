@@ -52,7 +52,7 @@ def get_weather():
             return jsonify({'error': f"Failed to get weatehr data: {error_message}"}), 404
 
     except requests.exceptions.RequestException as e:
-        return jsonify({"error": f"Network error: {str{e}}"}), 500
+        return jsonify({"error": f"Network error: {str(e)}"}), 500
     except  Exception as e:
         return jsonify({"error": f"An error occured: {str(e)}"}), 500
     
