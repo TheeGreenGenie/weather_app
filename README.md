@@ -12,7 +12,7 @@ A beautiful, responsive web application built with Flask that displays real-time
 
 ## Demo
 
-You can try the live demo at: [https://my-weather-fxec.onrender.com](https://my-weather-fxec.onrender.com)
+You can try the live demo at: [https://my-weather-fxec.onrender.com](https://my-weather-fxec.onrender.com) (non-active)
 
 ## Technology Stack
 
